@@ -7,17 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E60C03AF2C50F4A400E2D67E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E60C03AE2C50F4A400E2D67E /* Assets.xcassets */; };
 		E6F4684E2C50E1D00048B856 /* WarGameApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6F4684D2C50E1D00048B856 /* WarGameApp.swift */; };
 		E6F468502C50E1D00048B856 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6F4684F2C50E1D00048B856 /* ContentView.swift */; };
-		E6F468522C50E1D20048B856 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6F468512C50E1D20048B856 /* Assets.xcassets */; };
 		E6F468552C50E1D20048B856 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6F468542C50E1D20048B856 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E60C03AE2C50F4A400E2D67E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E6F4684A2C50E1D00048B856 /* WarGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WarGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6F4684D2C50E1D00048B856 /* WarGameApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WarGameApp.swift; sourceTree = "<group>"; };
 		E6F4684F2C50E1D00048B856 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		E6F468512C50E1D20048B856 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E6F468542C50E1D20048B856 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -53,7 +53,7 @@
 			children = (
 				E6F4684D2C50E1D00048B856 /* WarGameApp.swift */,
 				E6F4684F2C50E1D00048B856 /* ContentView.swift */,
-				E6F468512C50E1D20048B856 /* Assets.xcassets */,
+				E60C03AE2C50F4A400E2D67E /* Assets.xcassets */,
 				E6F468532C50E1D20048B856 /* Preview Content */,
 			);
 			path = WarGame;
@@ -125,8 +125,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E60C03AF2C50F4A400E2D67E /* Assets.xcassets in Resources */,
 				E6F468552C50E1D20048B856 /* Preview Assets.xcassets in Resources */,
-				E6F468522C50E1D20048B856 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
